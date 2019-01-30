@@ -1,0 +1,66 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+} 
+p {
+    text-indent: 30px;
+}
+.center {
+    margin: 0px auto;
+}
+/*NAV*/
+nav {
+    background-color: #dbdbdb;
+}
+nav div section a {
+    color: black;
+    font-size: 2vw;
+}
+nav div section a img {
+    height: 4vw;
+}
+/*MAIN*/
+main {
+    background-color: #eee8e8;
+}
+main section iframe {
+margin: auto;
+}
+main section article {
+    margin: auto;
+}
+main section article h1 {
+    text-align: center;
+}
+/*FOOTER*/
+footer {
+    background-color: #dbdbdb;
+}
+.banner-funix {
+	width: 33%;
+	margin: 0px auto;
+}
+.banner-funix img {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#footer-1 h2,h3 {
+    font-style: italic;
+}
+#footer-3 h1 {
+    text-align: center;
+    font-style: italic;
+}
+#icon-contact {
+	margin-left: auto;
+	margin-right: auto;		
+}
+#icon-contact a {
+	display: inline-block;
+	width: 30%;
+	height: auto;
+}
+#icon-contact img:hover {
+    filter: grayscale(150%);	
+}

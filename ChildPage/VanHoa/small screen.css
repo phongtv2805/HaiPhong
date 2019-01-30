@@ -1,0 +1,14 @@
+@media only screen and (max-width: 768px) {
+    #footer-1 h1{
+        font-size: 5vw;
+    }
+    #footer-1 h2{
+        font-size: 4vw;
+    }
+    #footer-1 h3{
+        font-size: 3vw;
+    }
+    #footer-2 h3{
+        font-size: 3vw;
+    }
+}
